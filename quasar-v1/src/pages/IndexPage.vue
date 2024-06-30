@@ -1,6 +1,10 @@
 <template>
   <q-page class="">
-    <div class="tw-bg-green-400">hello</div>
+    <div class="">
+      <div class="container">
+        OK
+      </div>
+    </div>
   </q-page>
 </template>
 

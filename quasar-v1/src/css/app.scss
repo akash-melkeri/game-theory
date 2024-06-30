@@ -1,1 +1,9 @@
-// app global css in SCSS form
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container{
+    @apply tw-max-w-6xl tw-mx-auto tw-px-4;
+  }
+}
