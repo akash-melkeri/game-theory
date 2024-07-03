@@ -6,4 +6,7 @@
   .container{
     @apply tw-max-w-6xl tw-mx-auto tw-px-4;
   }
+  .card{
+    @apply tw-rounded-lg tw-p-4 tw-shadow-lg tw-border;
+  }
 }
